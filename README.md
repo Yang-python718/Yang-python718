@@ -1,5 +1,5 @@
 ## Hi there 👋
-<img src=""/>
+<img src="./hello.svg"/>
 
 
 <!--
