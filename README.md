@@ -1,6 +1,6 @@
 ## Hi there 👋
 <img src="./hello.svg"/>
-更新中的个人cesium示例及项目展示：`https://yang-python718.github.io/yanghao_cesium_vite_Example/`
+更新中的个人cesium示例及项目展示：`https://yang-python718.github.io/yanghao_cesium_vite_Example/
 
 <!--
 **Yang-python718/Yang-python718** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
